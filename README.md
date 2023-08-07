@@ -8,8 +8,8 @@ To use this application, you'll first want to clone my GitHub Repository onto yo
 
 
 ## Links 
-[GitHub Repo](https://github.com/JLopez1227/Readme-Generator)
+[GitHub Repo](https://github.com/JLopez1227/modern-e-commerce)
 
 ## Tutorial Video
-The following video demonstrates how to properly use this application, while also showcasing it's functionality. 
-[README Generator Video](https://drive.google.com/file/d/1TVxmO7FaSxvukiDSbIozjx4ycRtiVoAI/view)
+The following video demonstrates how to properly use this application, while also showcasing it's functionality on Insomnia. 
+[Modern E Commerce Routes Walkthrough on Insomina](https://drive.google.com/file/d/1LKJyMdBHFuSZCPcAZRuX4DrD0er3m74d/view)
